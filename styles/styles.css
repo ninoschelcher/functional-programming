@@ -13,9 +13,14 @@ body h1 {
     padding: 1em;
 }
 
+.circle {
+    margin: 0 .5em;
+}
+
 .circle p {
     font-family: "Inter";
     text-align: center;
+    font-weight: bold;
 }
 
 .favouritecolour {
