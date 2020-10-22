@@ -4,14 +4,14 @@ const surveyQuestion = "lievelingskleur";
 const getSpecificAnswer = (surveyData, surveyQuestion) => {
   let specificAnswers = [];
   surveyData.map(surveyData => specificAnswers.push(surveyData[surveyQuestion]))
-  removeFaultyAnswers(specificAnswers);
+  return specificAnswers;
 }
 
 const removeFaultyAnswers = (specificAnswers) => {
   const faultyFilter = specificAnswers.filter(answer => {
     return answer !== '' && answer !== '/' && answer !== '0';
   });
-  formatAnswers(faultyFilter);
+  return faultyFilter;
 }
 
 const formatAnswers = (correctedAnswers) => {
@@ -48,7 +48,7 @@ const formatAnswers = (correctedAnswers) => {
   });
 
   const cleanedData = wrongAnswers.concat(rightAnswers).sort();
-  showCircles(cleanedData);
+  return cleanedData;
 }
 
 const showCircles = (formattedAnswers) => {
@@ -72,8 +72,9 @@ const showCircles = (formattedAnswers) => {
 }
 
 const cleanData = getSpecificAnswer(surveyData, surveyQuestion);
-
-
+const faultyAnswers = removeFaultyAnswers(cleanData);
+const formattedAnswers = formatAnswers(faultyAnswers);
+const finishedData = showCircles(formattedAnswers);
 
 
 // fetch('survey_data.json')
