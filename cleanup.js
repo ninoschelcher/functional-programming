@@ -4,7 +4,6 @@ const surveyQuestion = "lievelingskleur";
 const getSpecificAnswer = (surveyData, surveyQuestion) => {
   let specificAnswers = [];
   surveyData.map(surveyData => specificAnswers.push(surveyData[surveyQuestion]))
-  console.log(specificAnswers);
   removeFaultyAnswers(specificAnswers);
 }
 
