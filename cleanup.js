@@ -1,5 +1,5 @@
 const surveyData = data;
-let surveyQuestion = "lievelingskleur";
+const surveyQuestion = "lievelingskleur";
 
 const getSpecificAnswer = (surveyData, surveyQuestion) => {
   let specificAnswers = [];
@@ -38,7 +38,7 @@ const formatAnswers = (correctedAnswers) => {
     if (writtenColours.includes(answer)) {
     wrongAnswers.push(allWrittenColours[answer]);
     } else {
-      if(answer.charAt(0) != '#') {
+      if (answer.charAt(0) != '#') {
         answer = '#' + answer;
       }
       if (answer.length > 4 && answer.length < 7) {
@@ -48,7 +48,7 @@ const formatAnswers = (correctedAnswers) => {
     }
   });
 
-  let cleanedData = wrongAnswers.concat(rightAnswers).sort();
+  const cleanedData = wrongAnswers.concat(rightAnswers).sort();
   showCircles(cleanedData);
 }
 
@@ -62,7 +62,7 @@ const showCircles = (formattedAnswers) => {
     colourCode.innerText = answer;
     favouriteColour.className = 'favouritecolour'
     favouriteColour.style.backgroundColor = answer;
-    if(answer === '#ffffff') {
+    if (answer === '#ffffff') {
       favouriteColour.style.border = "3px solid black";
     }
 
@@ -72,7 +72,7 @@ const showCircles = (formattedAnswers) => {
   })
 }
 
-let cleanData = getSpecificAnswer(surveyData, surveyQuestion);
+const cleanData = getSpecificAnswer(surveyData, surveyQuestion);
 
 
 
