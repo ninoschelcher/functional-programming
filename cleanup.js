@@ -29,7 +29,7 @@ const formatAnswers = (correctedAnswers) => {
 
   const writtenColours = Object.keys(allWrittenColours)
 
-  correctedAnswers.forEach(answer => {
+  correctedAnswers.map(answer => {
     answer = answer.split('.').join("");
     answer = answer.split(" ")[0];
     answer = answer.toLowerCase();
@@ -52,7 +52,7 @@ const formatAnswers = (correctedAnswers) => {
 }
 
 const showCircles = (formattedAnswers) => {
-  formattedAnswers.forEach(answer => {
+  formattedAnswers.map(answer => {
     const block = document.createElement('div');
     const favouriteColour = document.createElement('div');
     const colourCode = document.createElement('p');
