@@ -1,2 +1,2 @@
 # functional-programming
-Functional Programming repository for CMD Tech-Track
+This project is part of the CMD Tech-Track. It contains the concept and visualization data story for The Volkskrant.
