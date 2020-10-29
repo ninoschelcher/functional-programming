@@ -16,7 +16,7 @@ After brainstorming and looking at all the datasets I thought that electric cars
 - Is a parking garage in Amsterdam that has charging points more expensive than one without charging points?
 - Are parking garages in Amsterdam with charging points convenient for people who charge their car during work times?
 
-Full documentation about my research questions can be found [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
+Full documentation about my research questions and explanations are [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
 
 # Installation Guide
 There are a few steps required to do so you can get the feature up and running on your own machine!
