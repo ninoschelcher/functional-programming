@@ -1,5 +1,5 @@
 # functional-programming
-This repository contains my process of cleaning data with functional patterns and process of finding good research questions from the dataset with a matching concept for The Volkskrant.
+This repository contains my process of cleaning data with functional patterns and process of finding good research questions from the dataset with a matching concept for The Volkskrant. Full documentation can be found [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki)
 
 # The Assignment
 
