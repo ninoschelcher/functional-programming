@@ -30,4 +30,4 @@ There are a few steps required to do so you can get the feature up and running o
 ### Run project
 - type `$ npm run test` to start the program
 
-# Sources
+# Sources & Acknowledgements
