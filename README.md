@@ -4,7 +4,7 @@ This repository contains my process of cleaning data with functional patterns an
 # The Assignment
 During this project we're working together with The Volkskrant, a newspaper based in the Netherlands. Together with the The Datalab department at the Volkskrant we have to come up with a concept related to: **The car in the city**.
 
-Now the goal is to find interesting insights in these (37) datasets about parking and turn these into interesting research questions that we can answer with a datavisualization that the journalists can write an interesting article about. 
+Now the goal is to find interesting insights in these (37) datasets about parking and turn these into interesting research questions that we can answer with a datavisualization. The Volkskrant can decide if they think these visualization(s) are enough to write an article about.
 
 # Research Question(s)
 After brainstorming and looking at all the datasets I thought that electric cars was an interesting topic, it's upcoming + a relevent topic since electric cars are 'better' for the environment. So I came up with the following research question:
