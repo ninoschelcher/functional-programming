@@ -1,6 +1,5 @@
 # functional-programming
-This project is part of the CMD Tech-Track. It mostly contains my process of cleaning data with functional patterns and process of finding good research questions with a matching concept for The Volkskrant.
-
+This repository contains my process of cleaning data with functional patterns and process of finding good research questions from the dataset with a matching concept for The Volkskrant.
 
 # The Assignment
 
