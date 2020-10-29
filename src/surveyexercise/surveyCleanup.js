@@ -1,5 +1,3 @@
-const {data} = require('./survey_data')
-
 const surveyData = data
 const surveyQuestion = "lievelingskleur";
 

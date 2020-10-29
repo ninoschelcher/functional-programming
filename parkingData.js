@@ -21,7 +21,10 @@ const allParkingData = async () => {
   const chargingPoints = getChargingPoints(parkingSpotSpecification, row1, row2, cityCode);
   const getParkingAmsterdamLocations = getParkingAmsterdamLocation(parkingLocations, row2, cityCode);
   const filteredLocations = getLocationandArea(getParkingAmsterdamLocations);
+  
   const correctLocations = getCorrectLocations(filteredLocations, chargingPoints, row2);
+
+  console.log(filteredLocations);
 }
 
 // Returns an array with parking garages from the specifications dataset that are in Amsterdam and have a charging point available.
