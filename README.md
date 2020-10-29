@@ -5,7 +5,7 @@ This project is part of the CMD Tech-Track. It contains the concept and visualiz
 ## The Concept
 
 ## Research Question
-# Is Amsterdam a good city for an electric car
+- Is Amsterdam a good city for an electric car
 
 ### Other Research Questions
 - How many charging points are available per parking garage in Amsterdam?
@@ -15,6 +15,6 @@ This project is part of the CMD Tech-Track. It contains the concept and visualiz
  
  Full documentation about research questsions can be found [In my wiki](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
 
-
 ## How to install
+
 ## Sources
