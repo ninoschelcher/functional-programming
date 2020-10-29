@@ -48,3 +48,44 @@ fetch('survey_data.json')
 
   surveyData.map(entry => specificAnswers.push(entry[surveyQuestion]));
   removeFaultyAnswers(specificAnswers);
+
+
+
+
+  const fetchSpecifData = () => {
+  fetch(parkingSpecifications)
+    .then(response => response.json())
+    .then(specifData => callFunctions(specifData))  
+}
+
+const fetchGeoData = () => {
+  fetch(geoLocations)
+    .then(response => response.json())
+    .then(geoData => geoFunctions(geoData))
+}
+
+
+const callFunctions = (specifData, geoData) => {
+  const specificRow = getSpecificRow(specifData, row1, row2);
+}
+
+const geoFunctions = (geoData) => {
+  const geoLocations = getGeoLocations(geoData, row2)
+  const specificLocation = getSpecificLocations(geoLocations);
+  console.log(specificLocation);
+}
+
+const getSpecificRow = (data, row1, row2) => {
+  return data.filter(data => data[row1] !== '0' && data[row2].startsWith(cityCode));
+}
+
+const getGeoLocations = (data, row) => {
+  return data.filter(data => data[row].startsWith(cityCode));
+}
+
+const getSpecificLocations = (data) => {
+  return data.map(data => ({areaid: data.areaid, location: data.location}))
+}
+
+fetchSpecifData();
+fetchGeoData();
