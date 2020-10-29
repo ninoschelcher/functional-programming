@@ -7,6 +7,7 @@ During this project we're working together with The Volkskrant, a newspaper base
 Now the goal is to find interesting insights in these (37) datasets about parking and turn these into interesting research questions that we can answer with a datavisualization that the journalists can write an interesting article about. 
 
 # Research Question(s)
+After brainstorming and looking at all the datasets I thought that electric cars was an interesting topic, it's upcoming + a relevent topic since electric cars are 'better' for the environment. So I came up with the following research question:
 - Is Amsterdam a good city for an electric car?
 
 ## Other Research Questions
@@ -31,4 +32,4 @@ There are a few steps required to do so you can get the feature up and running o
 - type `$ npm run test` to start the program
 
 # Sources & Acknowledgements
-- [Laurens](https://github.com/Razpudding) — For [this](https://github.com/ninoschelcher/functional-programming/blob/5f093897016b1c53d41cc6bf522d4afe2c28a3d6/parkingData.js#L9)function to fetch data. 
+- [Laurens](https://github.com/Razpudding) — For [this](https://github.com/ninoschelcher/functional-programming/blob/5f093897016b1c53d41cc6bf522d4afe2c28a3d6/parkingData.js#L9) function to fetch data. 
