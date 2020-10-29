@@ -5,7 +5,7 @@ This project is part of the CMD Tech-Track. It mostly contains my process of cle
 # The Assignment
 
 ## Research Question
-- Is Amsterdam a good city for an electric car
+- Is Amsterdam a good city for an electric car?
 
 ### Other Research Questions
 - How many charging points are available per parking garage in Amsterdam?
