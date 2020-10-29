@@ -3,10 +3,10 @@ This repository contains my process of cleaning data with functional patterns an
 
 # The Assignment
 
-## Research Question
+# Research Question(s)
 - Is Amsterdam a good city for an electric car?
 
-### Other Research Questions
+## Other Research Questions
 - How many charging points are available per parking garage in Amsterdam?
 - In which district in Amsterdam is it the easiest/hardest to find a charging point for you car?
 - Is a parking garage in Amsterdam that has charging points more expensive than one without charging points?
