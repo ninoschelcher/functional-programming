@@ -3,4 +3,6 @@ This project is part of the CMD Tech-Track. It contains the concept and visualiz
 
 Research questions can be found [here](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
 
-# The Concept
+## The Concept
+
+## Sources
