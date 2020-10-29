@@ -31,3 +31,4 @@ There are a few steps required to do so you can get the feature up and running o
 - type `$ npm run test` to start the program
 
 # Sources & Acknowledgements
+- [Laurens](https://github.com/Razpudding) — For [this](https://github.com/ninoschelcher/functional-programming/blob/5f093897016b1c53d41cc6bf522d4afe2c28a3d6/parkingData.js#L9)function to fetch data. 
