@@ -15,5 +15,16 @@ This repository contains my process of cleaning data with functional patterns an
 Full documentation about my research questions can be found [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
 
 # Installation Guide
+There are a few steps required to do so you can get the feature up and running on your own machine!
+
+### Clone project
+- Clone this repo to your local machine using `$ git clone https://github.com/ninoschelcher/functional-programming.git`
+- Go to the directory by typing `$ cd functional-programming`
+
+### Install packages
+- Install all required packages by using `$ npm install`
+
+### Run project
+- type `$ npm run test` to start the program
 
 # Sources
