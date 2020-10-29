@@ -2,7 +2,7 @@
 This project is part of the CMD Tech-Track. It mostly contains my process of cleaning data with functional patterns and process of finding good research questions with a matching concept for The Volkskrant.
 
 
-## The Assignment
+# The Assignment
 
 ## Research Question
 - Is Amsterdam a good city for an electric car
@@ -15,6 +15,6 @@ This project is part of the CMD Tech-Track. It mostly contains my process of cle
 
 Full documentation about my research questions can be found [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
 
-## Installation Guide
+# Installation Guide
 
-## Sources
+# Sources
