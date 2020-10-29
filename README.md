@@ -19,7 +19,7 @@ After brainstorming and looking at all the datasets I thought that electric cars
 Full documentation about my research questions and explanations are [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
 
 # Installation Guide
-There are a few steps required to do so you can get the feature up and running on your own machine!
+There are a few steps required to do so you can get the program up and running on your own machine!
 
 ### Clone project
 - Clone this repo to your local machine using `$ git clone https://github.com/ninoschelcher/functional-programming.git`
