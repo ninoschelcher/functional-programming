@@ -1,3 +1,4 @@
-*.csv
-*.json
 survey_data.js
+node_modules
+.cache/
+dist
