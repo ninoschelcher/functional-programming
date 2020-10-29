@@ -33,4 +33,4 @@ There are a few steps required to do so you can get the feature up and running o
 
 # Sources & Acknowledgements
 - [Laurens](https://github.com/Razpudding) — For [this](https://github.com/ninoschelcher/functional-programming/blob/5f093897016b1c53d41cc6bf522d4afe2c28a3d6/parkingData.js#L9) function to fetch data. 
-- [Stackoverflow Multiple Map Values](https://github.com/ninoschelcher/functional-programming/blob/704b5c0cb8ae9a7c460b3895c497d0516c944126/parkingData.js#L38) — Used for [this part](https://github.com/ninoschelcher/functional-programming/blob/704b5c0cb8ae9a7c460b3895c497d0516c944126/parkingData.js#L43) of my code.
+- [Stackoverflow Multiple Map Values](https://stackoverflow.com/a/41762582) — Used for [this part](https://github.com/ninoschelcher/functional-programming/blob/704b5c0cb8ae9a7c460b3895c497d0516c944126/parkingData.js#L43) of my code.
