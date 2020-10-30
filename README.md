@@ -8,7 +8,7 @@ Now the goal is to find interesting insights in these (37) datasets about parkin
 
 # Research Question(s) 🔍
 After brainstorming and looking at all the datasets I thought that electric cars was an interesting topic, it's upcoming + a relevent topic since electric cars are 'better' for the environment. So I came up with the following research question:
-- Is Amsterdam a good city for an electric car?
+- Is electric charging in Amsterdam parking spaces a viable option?
 
 ## Other Research Questions
 ### 1. How many charging points are available per parking garage in Amsterdam?
