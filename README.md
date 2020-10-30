@@ -1,12 +1,12 @@
-# Functional Programming
+# Functional Programming 👓
 This repository contains my process of cleaning data with functional patterns and process of finding good research questions from the dataset with a matching concept for The Volkskrant. Full documentation & process can be found [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki)
 
-# The Assignment
+# The Assignment 📝
 During this project we're working together with The Volkskrant, a newspaper based in the Netherlands. Together with the The Datalab department at the Volkskrant we have to come up with a concept related to: **The car in the city**.
 
 Now the goal is to find interesting insights in these (37) datasets about parking and turn these into interesting research questions that we can answer with a datavisualization. The Volkskrant can decide if they think these visualization(s) are enough to write an article about.
 
-# Research Question(s)
+# Research Question(s) 🔍
 After brainstorming and looking at all the datasets I thought that electric cars was an interesting topic, it's upcoming + a relevent topic since electric cars are 'better' for the environment. So I came up with the following research question:
 - Is Amsterdam a good city for an electric car?
 
@@ -62,7 +62,7 @@ After brainstorming and looking at all the datasets I thought that electric cars
 
 Full documentation about my research questions and explanations are [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
 
-# Installation Guide
+# Installation Guide 💻
 There are a few steps required to do so you can get the program up and running on your own machine!
 
 ### Clone project
@@ -75,6 +75,6 @@ There are a few steps required to do so you can get the program up and running o
 ### Run project
 - type `$ npm run test` to start the program
 
-# Sources & Acknowledgements
+# Sources & Acknowledgements 🙋
 - [Laurens](https://github.com/Razpudding) — For [this](https://github.com/ninoschelcher/functional-programming/blob/5f093897016b1c53d41cc6bf522d4afe2c28a3d6/parkingData.js#L9) function to fetch data. 
 - [Stackoverflow Multiple Map Values](https://stackoverflow.com/a/41762582) — Used for [this part](https://github.com/ninoschelcher/functional-programming/blob/704b5c0cb8ae9a7c460b3895c497d0516c944126/parkingData.js#L43) of my code.
