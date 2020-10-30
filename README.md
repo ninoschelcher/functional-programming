@@ -23,7 +23,7 @@ After brainstorming and looking at all the datasets I thought that electric cars
    * **Location** — Data that consists of Latitude and Longitude (number)
    * **AreaId** — Number to identify specific garage, can be combined to find geo location of garage with charging point (number/text)
 
-### 2. In which district in Amsterdam is it the easiest/hardest to find a charging point for you car?
+### 2. In which part of Amsterdam is it the easiest/hardest to find a charging point for you car?
 - **Assumption:** This is a tricky one, I have a mixed feelings about it. It's probably harder to find a parking spot in the centre cause more people are working in the centre of Amsterdam but there are a lot of charging spots. But meanwhile in other districts, for example Nieuw-West there are not a lot of charging spots while there are more people buying an electric car. 
  
 - **Dataset:**
