@@ -66,6 +66,8 @@ After brainstorming and looking at all the datasets I thought that electric cars
 
 Full documentation about my research questions and explanations are [in my wiki](https://github.com/ninoschelcher/functional-programming/wiki/Brainstorming-&-Research-Questions)
 
+So for my concept I will look at the charging point options all around Amsterdam and compare them to each other and other garages in Amsterdam that don't have charging points available.
+
 # Interesting Functional Pattern 💡 
 The most interesting functional pattern is the `formatAnswers()` function. In this function I format all answers into a hex code so it's consistent to use. Some answers needed a # and others were written out like `Blauw` or `Rood`. The functional pattern can be found [here](https://github.com/ninoschelcher/functional-programming/blob/8406b341de0dbf77022d8b12798f4415e8bf4be1/src/surveyexercise/surveyCleanup.js#L17)
 
