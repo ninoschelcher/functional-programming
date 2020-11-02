@@ -6,9 +6,10 @@ During this project we're working together with The Volkskrant, a newspaper base
 
 Now the goal is to find interesting insights in these (37) datasets about parking and turn these into interesting research questions that we can answer with a datavisualization. The Volkskrant can decide if they think these visualization(s) are enough to write an article about.
 
+![Volkskrant picture](https://github.com/ninoschelcher/functional-programming/blob/main/wiki_media/798px-Volkskrant.svg.png)
+
 Volkskrant, 2020
 
-[Bron foto](https://nl.wikipedia.org/wiki/Bestand:Volkskrant.svg)
 
 # Research Question(s) 🔍
 After brainstorming and looking at all the datasets I thought that electric cars was an interesting topic, it's upcoming + a relevent topic since electric cars are 'better' for the environment. So I came up with the following research question:
