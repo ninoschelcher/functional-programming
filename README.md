@@ -6,7 +6,7 @@ During this project we're working together with The Volkskrant, a newspaper base
 
 Now the goal is to find interesting insights in these (37) datasets about parking and turn these into interesting research questions that we can answer with a datavisualization. The Volkskrant can decide if they think these visualization(s) are enough to write an article about.
 
-![volkskrant logo](https://github.com/ninoschelcher/functional-programming/blob/main/wiki_media/798px-Volkskrant.svg.png)
+Volkskrant, 2020
 
 [Bron foto](https://nl.wikipedia.org/wiki/Bestand:Volkskrant.svg)
 
@@ -87,4 +87,4 @@ There are a few steps required to do so you can get the program up and running o
 # Sources & Acknowledgements 🙋
 - [Laurens](https://github.com/Razpudding) — For [this](https://github.com/ninoschelcher/functional-programming/blob/5f093897016b1c53d41cc6bf522d4afe2c28a3d6/parkingData.js#L9) function to fetch data. 
 - [Max Hauser](https://github.com/max-hauser) — For regular feedback throughout the project.
-- [Stackoverflow Multiple Map Values](https://stackoverflow.com/a/41762582) — Used for [this part](https://github.com/ninoschelcher/functional-programming/blob/704b5c0cb8ae9a7c460b3895c497d0516c944126/parkingData.js#L43) of my code.
+- [Volkskrant Image](https://nl.wikipedia.org/wiki/De_Volkskrant) — Wikipedia-bijdragers. (2020b, 7 oktober). De Volkskrant. Geraadpleegd op 30 oktober 2020, van https://nl.wikipedia.org/wiki/De_Volkskrant
